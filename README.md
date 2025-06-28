@@ -8,7 +8,7 @@ A classic Hangman game built with **HTML**, **CSS**, and **JavaScript**. Test yo
 - Win and lose conditions with game over messages.
 
 ## 🚀 How to Play
-1. Play the game online here: [GitHub Pages Link](https://srijachandra.github.io/hangman-game/)  
+1. Play the game online here: [GitHub Pages Link](https://srijachandra.github.io/Hangman-Game/)  
 2. Click letters to guess the word.
 3. Correct guesses reveal letters; incorrect guesses draw the hangman.
 4. Guess the word before the hangman is fully drawn to win!
